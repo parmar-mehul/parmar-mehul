@@ -1,5 +1,6 @@
 <h1 align="center">
-  Hi ![Demo GIF](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Mehul
+  Hi I'm Mehul
+  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 </h1>
 
 <h3 align="center">
@@ -41,11 +42,7 @@
   <img src="https://github.com/parmar-mehul/parmar-mehul/blob/main/1936.gif" width="100%" />
 </p>
 
-### END
-
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-
 <img src="https://github.com/parmar-mehul/parmar-mehul
 /blob/main/1936.gif" width=100% height="500"></img>
 
-<a href=#><img src="contributions.svg"></a
+<a href=#><img src="contributions.svg"></a>
