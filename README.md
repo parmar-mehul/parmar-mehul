@@ -1,7 +1,13 @@
 <h1 align="center">
   Hi I'm Mehul
 </h1>
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+
+https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif
+
+<p align="center">
+  <img height="165"
+       src="https://streak-stats.demolab.com?user=parmar-mehul" />
+</p>
 
 <h3 align="center">
   Senior Native iOS & Android Developer | SwiftUI • UIKit • Swift • Kotlin • Flutter
@@ -17,11 +23,6 @@
 
   <img height="165"
        src="https://readme-stats-fast.vercel.app/api/top-langs/?username=parmar-mehul&layout=compact&langs_count=8" />
-</p>
-
-<p align="center">
-  <img height="165"
-       src="https://streak-stats.demolab.com?user=parmar-mehul" />
 </p>
 
 <h3 align="center">Tech Stack</h3>
