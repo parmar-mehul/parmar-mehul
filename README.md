@@ -16,6 +16,11 @@
 </p>
 
 <p align="center">
+
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=parmar-mehul&langs_count=4)](https://github-stats-extended.vercel.app/api/top-langs?username=parmar-mehul&langs_count=4)
+  
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=parmar-mehul&rank_icon=github&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=parmar-mehul&rank_icon=github&show_icons=true&include_all_commits=true)
+  
   <img height="165"
        src="https://readme-stats-fast.vercel.app/api?username=parmar-mehul&show_icons=true" />
 
