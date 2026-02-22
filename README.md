@@ -8,7 +8,7 @@
 <!-- ![Mehul's github stats](https://github-readme-stats.vercel.app/api?username=smallprogram&show_icons=true&count_private=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smallprogram) -->
 
 <a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=parmar-mehul&show_icons=true&count_private=true" />
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=parmar-mehul" alt="parmar-mehul" /> </p>
 </a>
 <a>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parmar-mehul" />
