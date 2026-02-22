@@ -21,19 +21,19 @@
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=apple,androidstudio,swift,kotlin,flutter,dart"
+    src="https://skillicons.dev/icons?i=apple,swift,kotlin,flutter,dart,"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=ktor,firebase"
+    src="https://skillicons.dev/icons?i=firebase,ktor,bitbucket,aws,nodejs"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=xcode,figma,git,github,fastlane,postman"
+    src="https://skillicons.dev/icons?i=xcode,figma,androidstudio,vscode,git,github,fastlane,postman"
   />
 </p>
 
