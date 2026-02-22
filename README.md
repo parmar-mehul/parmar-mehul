@@ -1,12 +1,13 @@
 <h1 align="center">
-  Hi I'm Mehul
+  Hello, I'm Mehul. Let's connect in Github.
 </h1>
 
-https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" />
+</p>
 
 <p align="center">
-  <img height="165"
-       src="https://streak-stats.demolab.com?user=parmar-mehul" />
+  <img src="https://komarev.com/ghpvc/?username=parmar-mehul&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <h3 align="center">
@@ -29,10 +30,6 @@ https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=swift,kotlin,firebase,androidstudio,xcode,git,github,figma,fastlane,dart,flutter" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=parmar-mehul&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
