@@ -1,15 +1,15 @@
-🚀 Header
 <h1 align="center">
-  Hi 👋, I'm Mehul Parmar
+  Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Mehul Parmar
 </h1>
 
 <h3 align="center">
   Senior Native iOS & Android Developer | SwiftUI • Kotlin • KMM
 </h3>
-🖼 Hero Banner (Keep only ONE GIF)
+
 <p align="center">
-  <img src="https://github.com/parmar-mehul/parmar-mehul/blob/master/111.gif" width="100%" />
+  <img src="https://github.com/parmar-mehul/parmar-mehul/blob/main/111.gif" width="100%" />
 </p>
+
 📊 GitHub Stats (Side-by-Side Proper Layout)
 <p align="center">
   <img height="165"
@@ -43,7 +43,7 @@ readme-stats-fast streak endpoint sometimes fails.
 </p>
 🖼 Footer Animation (Optional)
 <p align="center">
-  <img src="https://github.com/parmar-mehul/parmar-mehul/blob/master/1936.gif" width="100%" />
+  <img src="https://github.com/parmar-mehul/parmar-mehul/blob/main/1936.gif" width="100%" />
 </p>
 
 ### END
@@ -53,7 +53,7 @@ readme-stats-fast streak endpoint sometimes fails.
 
 #### Welcome to my GitHub
 
-<img src="https://github.com/parmar-mehul/parmar-mehul/blob/master/111.gif" width=100% height="500"></img>
+<img src="https://github.com/parmar-mehul/parmar-mehul/blob/main/111.gif" width=100% height="500"></img>
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=parmar-mehul&show_icons=true&theme=radical)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=parmar-mehul&theme=radical)
@@ -62,9 +62,8 @@ readme-stats-fast streak endpoint sometimes fails.
 <a>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=parmar-mehul" alt="parmar-mehul" /> </p>
 </a>
-<a>
-  [<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parmar-mehul" />](https://readme-stats-fast.vercel.app/api/top-langs/?username=parmar-mehul&layout=compact&theme=radical)
-</a>
+
 <img src="https://github.com/parmar-mehul/parmar-mehul
-/blob/master/1936.gif" width=100% height="500"></img>
-<a href=#><img src="contributions.svg"></a>
+/blob/main/1936.gif" width=100% height="500"></img>
+
+<a href=#><img src="contributions.svg"></a
