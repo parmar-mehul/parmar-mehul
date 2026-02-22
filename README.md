@@ -1,6 +1,6 @@
 <h1 align="center">
   Hello <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>, I'm Mehul. 
-  Let's connect in Github.
+  /nLet's connect in Github.
 </h1>
 
 <p align="right">
@@ -14,21 +14,6 @@
 <p align="center">
   <img src="https://github.com/parmar-mehul/parmar-mehul/blob/main/111.gif" width="20%" />
 </p>
-
-<p align="center">
-
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=parmar-mehul&langs_count=4)](https://github-stats-extended.vercel.app/api/top-langs?username=parmar-mehul&langs_count=4)
-  
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=parmar-mehul&rank_icon=github&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=parmar-mehul&rank_icon=github&show_icons=true&include_all_commits=true)
-  
-  <img height="165"
-       src="https://readme-stats-fast.vercel.app/api?username=parmar-mehul&show_icons=true" />
-
-  <img height="165"
-       src="https://readme-stats-fast.vercel.app/api/top-langs/?username=parmar-mehul&layout=compact&langs_count=8" />
-</p>
-
-<h3 align="center">Tech Stack</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=apple,swift,kotlin,ktor,firebase,androidstudio,xcode,git,github,figma,fastlane,dart,flutter,postman" />
