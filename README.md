@@ -18,7 +18,25 @@
   <img src="https://github.com/parmar-mehul/parmar-mehul/blob/main/111.gif" width="20%" />
 </p>
 
-<img src="https://skillicons.dev/icons?i=apple,swift,kotlin,ktor,firebase,androidstudio,xcode,git,github,figma,fastlane,dart,flutter,postman" />
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=apple,androidstudio,swift,kotlin,flutter,dart"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=ktor,firebase"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=xcode,figma,git,github,fastlane,postman"
+  />
+</p>
+
 
 <p align="center">
   <img src="https://github.com/parmar-mehul/parmar-mehul/blob/main/1936.gif" width="100%" />
